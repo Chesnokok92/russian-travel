@@ -1,7 +1,7 @@
 # Проект: Путешествие по России
 
 
-(https://www.google.com](https://chesnokok92.github.io/) "Первый адаптивный сайт")
+(https://chesnokok92.github.io/) "Первый адаптивный сайт")
 
 ### Выполнен с помощью
 
